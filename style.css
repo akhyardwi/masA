@@ -46,7 +46,7 @@ body {
     width: 80%;
     display: flex;
     justify-content: space-evenly;
-    background-color: transparent;
+    background-color: #ffffff;
     padding: 24px;
     border-radius: 16px;
 }
